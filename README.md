@@ -15,6 +15,7 @@
 * https://estimatefee.com/
 * https://lnmainnet.gaben.win/
 * https://www.jonathanotto.com/bitcoin-transactions - Understanding transactions
+* http://snapshots.mempool.co - getrawmempool snapshots every 30 minutes since February 2018
 
 ### SegWit adoption
 
